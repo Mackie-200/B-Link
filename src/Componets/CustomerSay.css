@@ -1,0 +1,37 @@
+.containerItems{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 50px;
+    gap: 20px;
+}
+
+.firstPerson{
+    background-image: url(./../Componets/pictures/marry.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 20rem;
+    height: 7rem;
+      margin-left: 130px !important;
+}
+.secPerson{
+    background-image: url(./../Componets/pictures/anna.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 18.1rem;
+    height: 5.6rem;
+}
+
+.thirdPerson{
+    background-image: url(./../Componets/pictures/tafadzwa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 23rem;
+    height: 5.9rem;
+      margin-left: 130px !important;
+}

@@ -1,0 +1,15 @@
+.aboutbanner{
+    background-image: url(./../Componets/pictures/aboutbanner.png);
+    width: 96%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50px;
+    margin: 0 30px;
+    overflow: hidden;
+}

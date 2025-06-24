@@ -1,0 +1,28 @@
+.imageFirst{
+    background-image: url(./../Componets/pictures/team.png);
+    height: 75vh;
+    background-position: 0 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+}
+
+.itemTeams{
+    padding: 5vh 0;
+}
+
+.imageItems{
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+    padding: 30px;
+    gap: 30px;
+    text-align: left;
+    margin-left: 50px !important;
+}
+
+.imageItems .orange{
+    width: 7rem;
+    padding: 2px 0;
+}

@@ -1,0 +1,14 @@
+.pblock{
+    padding: 5%;
+}
+
+.groupimage{
+    width: 100vw;
+    height: 60vh;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-image: url(./../Componets//pictures/groupPipo.png);
+}

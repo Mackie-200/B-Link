@@ -1,0 +1,95 @@
+.pipoL{
+    background-color: orange;
+    width: 20rem;
+    height: 45vh;
+    margin: 20px;
+    border-radius: 20px;
+    margin-top: 10vh;
+}
+
+.flexitems{
+    place-content: center;
+    padding-top: 15vh;
+}
+
+.personImage1{
+    background-image: url(./../Componets/pictures/blue.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 80%;
+    height: 100%;
+    margin-top: -70px;
+}
+.danielX{
+    background-image: url(./../Componets/pictures/yelow.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 80%;
+    height: 100%;
+    margin-top: -100px;
+}
+.tracy{
+    background-image: url(./../Componets/pictures/don.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 80%;
+    height: 100%;
+    margin-top: -100px;
+}
+.employee{
+    background-image: url(./../Componets/pictures/employee.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 80%;
+    height: 100%;
+    margin-top: -100px;
+}
+.pic{
+    background-image: url(./../Componets/pictures/pick.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 100%;
+    height: 100%;
+    margin-top: -100px;
+}
+.suit{
+    background-image: url(./../Componets/pictures/bigsuit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    width: 100%;
+    height: 100%;
+    margin-top: -100px;
+}
+
+.flexDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.itemsww *{
+    font-weight:bolder;
+    gap: 0;
+}
+
+.orangebutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+}
+
+.intouch{
+    border: 2px orange solid;
+}
+
+.itemTeams{
+    place-content: center !important;
+}

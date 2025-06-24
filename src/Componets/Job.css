@@ -1,0 +1,8 @@
+.imageJob{
+     background-image: url(./../Componets/pictures/job.png);
+    height: 55vh;
+    background-position: 0 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30vw;
+}
